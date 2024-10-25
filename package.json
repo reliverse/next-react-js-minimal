@@ -1,0 +1,15 @@
+{
+	"name": "next-react-js-minimal",
+	"version": "0.1.0",
+	"dependencies": {
+		"next": "15.0.1",
+		"react": "^18.3.1",
+		"react-dom": "^18.3.1"
+	},
+	"private": true,
+	"scripts": {
+		"dev": "next dev --turbo",
+		"build": "next build"
+	},
+	"type": "module"
+}
